@@ -82,7 +82,7 @@ Each Gitpod team has [its own project board](https://github.com/orgs/gitpod-io/p
 
 For new Go projects, please update [gitpod-ws.code-workspace](./gitpod-ws.code-workspace) to include the folder. Why? This will make it so that [IntelliSense](https://code.visualstudio.com/docs/editor/intellisense) works with your project, without having to exclusively open the project in a separate context, e.g. `code components/<my-new-component>`. References [1](https://go.googlesource.com/tools/+/refs/heads/master/gopls/doc/workspace.md#multiple-workspace-folders)[2](https://code.visualstudio.com/docs/editor/multi-root-workspaces)
 
-## Related Projects
+## Related Projects....
 
 During the development of Gitpod, we also developed some of our own infrastructure toolings to make development easier and more efficient.
 To this end, we've developed a number of open source projects including:
